@@ -1,0 +1,17 @@
+# From TwelevPenguins
+- Completed the foundations tasks mostly in 2023 (according to the forked version then)
+- Merged in 2026 for the added computer science practices
+- Some past practices have leftover tests that could not be merged and are saved in `legacy_foundations_tests_` 
+- Due to changes in foundations practices and the deletion of some since 2023, only the following practices in the current fork are completed:
+    - `01_helloWorld`
+    - `06_repeatString`
+    - `07_reverseString`
+    - `08_removeFromArray`
+    - `09_sumAll`
+    - `10_leapYears`
+    - `11_tempConversion`
+    - `12_calculator`
+    - `13_palindromes`
+    - `14_fibbonacci`
+    - `15_getTheTiles`
+    - `16_findTheOldest`
