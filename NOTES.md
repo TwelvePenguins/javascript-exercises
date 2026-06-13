@@ -1,4 +1,4 @@
-# From TwelevPenguins
+# From TwelevPenguins, notes from the 2023 -> 2026 merge
 - Completed the foundations tasks mostly in 2023 (according to the forked version then)
 - Merged in 2026 for the added computer science practices
 - Some past practices have leftover tests that could not be merged and are saved in `legacy_foundations_tests_` 
