@@ -1,8 +1,6 @@
 const contains = function(obj, target) {
-    console.log(Object.keys(obj))
     const values = Object.values(obj);
     const immediateObejcts = values.filter((value) => typeof value == "object" && value !== null);
-    console.log(immediateObejcts)
 
     
     if (values.includes(target)) {
